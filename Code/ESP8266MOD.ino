@@ -1,4 +1,4 @@
-//Espera 10 segundos antes de la siguiente lectura
+//Espera 10 segundos antes de la siguiente lectura de gas.
 
 
 #include <ESP8266WiFi.h>
