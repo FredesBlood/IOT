@@ -1,3 +1,5 @@
+//en la version 2.0 la alarma deja de sonar cuando deja de detectar gas.
+
 #include <ESP8266WiFi.h>
 #include <ESP8266HTTPClient.h>
 #include <WiFiClient.h>
