@@ -1,3 +1,6 @@
+//Espera 10 segundos antes de la siguiente lectura
+
+
 #include <ESP8266WiFi.h>
 #include <ESP8266HTTPClient.h>
 #include <WiFiClient.h>
